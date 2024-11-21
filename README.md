@@ -1,19 +1,10 @@
-# GestureRecognitionUsingDeepLearning
-This project involves building a 3D Neural Network to correctly recognize hand gestures by a user to control a smart TV.
-
-![alt text](https://github.com/Ashutosh27ind/GestureRecognitionUsingDeepLearning/blob/main/sample_thumbs_down.PNG?raw=true)
-
 # Problem Statement:
-The objective of this projects is to build a hand gesture recognition model that can be hosted on a camera installed in a smart TV that can understand 5 gestures.   
-The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:  
--	Thumbs up:  Increase the volume  
--	Thumbs down: Decrease the volume  
--	Left swipe: 'Jump' backwards 10 seconds  
--	Right swipe: 'Jump' forward 10 seconds    
--	Stop: Pause the movie  
+Design and implement a dynamic web application for any business functionality by using web development technologies.
 
-# About the Dataset: 
-The training data consists of a few hundred videos categorised into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames(images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use.  
-The videos have two types of dimensions - either 360x360 or 120x160 (depending on the webcam used to record the videos).  
-
-### Data Source : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+# Description:
+A housing society management project effectively manages and handles all the functioning of a cooperative housing society. The software system can store the data of various flat owners and their family members. The system also maintains the society. The system needs an administrator to input various flat owner data and billing amounts into it.
+With more and more people moving towards bigger cities and metros in search of better opportunities, the space to make homes in these areas keeps on decreasing. So instead of making homes, the smarter choice becomes apartment buildings or societies.
+With more and more societies being built and more people moving in, a better, computer based database and management system for these societies becomes more of a need than a feature.
+Here we have worked towards building a simple yet productive and efficient Society Management System which can perform CRUD operations and with endless future scope of adding features.
+This project presents a solution for housing/residential societies to manage their residents with more ease through a computer based approach. Any more features depending on the needs of a society can be easily added. The project gives easy access to CRUD operations and makes it easier for the user to maintain records.
+The project is built on JSP and makes use of SQL to maintain its database operations. JDBC (connectivity) makes it possible to edit the database through the UI without the hassle of using cmd lines and SQL queries which the user may not be aware of.
